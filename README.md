@@ -6,3 +6,6 @@
 
 测试里有适当的提示（Hint）供大家参考
 
+
+# WARNING:
+该代码库版权归ThoughtWorks所有。
